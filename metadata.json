@@ -1,0 +1,5 @@
+{
+  "name": "CSV_JSON",
+  "description": "A powerful tool to convert complex, dot-notation CSV files into structured JSON. It also transforms the data to a simulated database schema and calculates age distribution statistics.",
+  "requestFramePermissions": []
+}
